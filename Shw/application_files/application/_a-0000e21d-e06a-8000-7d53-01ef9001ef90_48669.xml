@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>0f2651f0-8e4a-43fa-9b7a-db1a1f65b497</versionUuid>
+    <versionUuid>4b4af1a5-2a0e-4365-be5b-66f715ae83e0</versionUuid>
     <application>
         <name>Environmental Activity Permits</name>
         <uuid>_a-0000e21d-e06a-8000-7d53-01ef9001ef90_48669</uuid>
@@ -290,5 +290,6 @@
         <historyInfo versionUuid="197c7044-efee-4139-b749-cbc24147cde0"/>
         <historyInfo versionUuid="18cb3d0e-97f3-4570-ad15-061cbf5f69b5"/>
         <historyInfo versionUuid="0f2651f0-8e4a-43fa-9b7a-db1a1f65b497"/>
+        <historyInfo versionUuid="4b4af1a5-2a0e-4365-be5b-66f715ae83e0"/>
     </history>
-</applicationHaul><!--updated on 2019-06-21T17:33:48.795-->
+</applicationHaul><!--updated on 2019-06-21T17:47:33.841-->
